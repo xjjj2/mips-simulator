@@ -1,2 +1,2 @@
 # mips-simulator
-a ugly mips simulator
+an ugly mips simulator
