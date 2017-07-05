@@ -582,7 +582,7 @@ bool blt(int n, int t) {
 	}
 	if (t == 5) {
 		if (tmp[5].a[1] == 1) {
-			npc = tmp[5].a[0]; --npc_modifier ;
+			npc = tmp[5].a[0]; --npc_modifier;memset(usingreg,0,sizeof(usingreg));
 		}
 	}
 	return false;
